@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# machine-shop
+Tool sets and tools for individual types of machines.
 <pre>
-  pip install independent-machine
+  pip install machine-shop
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import machine_shop
 ```
